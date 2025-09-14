@@ -1,0 +1,413 @@
+[
+  {
+    "id": "1",
+    "name": "Carrara White",
+    "color": "White with Gray Veins",
+    "priceContact": "Contact for Best Pricing",
+    "origin": "Carrara, Italy",
+    "description": "Classic Italian marble with elegant gray veining on pure white background. The most popular marble for luxury interiors and sculptures.",
+    "image": "/Carrara White.png",
+    "size": "60x60cm",
+    "rarity": "common",
+    "category": "Classic",
+    "patterns": [
+      "Veining",
+      "Classic"
+    ],
+    "material": "Natural Marble",
+    "finish": "Polished",
+    "sellingStatus": "Selling Fast"
+  },
+  {
+    "id": "2",
+    "name": "Calacatta Gold",
+    "color": "White with Gold Veins",
+    "priceContact": "Contact for Best Pricing",
+    "origin": "Carrara, Italy",
+    "description": "Premium Italian marble featuring dramatic gold veining on white background. Highly sought after for luxury kitchen countertops.",
+    "image": "/Calacatta-Gold.png",
+    "size": "60x60cm",
+    "rarity": "rare",
+    "category": "Premium",
+    "patterns": [
+      "Gold Veining",
+      "Dramatic"
+    ],
+    "material": "Natural Marble",
+    "finish": "Polished",
+    "sellingStatus": "Best Seller",
+    "isFeatured": false,
+    "updatedAt": "2025-09-14T14:16:12.416Z"
+  },
+  {
+    "id": "3",
+    "name": "Nero Marquina",
+    "color": "Deep Black with White Veins",
+    "priceContact": "Contact for Best Pricing",
+    "origin": "Marquina, Spain",
+    "description": "Stunning black marble with striking white veining. Perfect for creating bold contrasts in modern interiors.",
+    "image": "/Onyx Black.png",
+    "size": "60x60cm",
+    "rarity": "uncommon",
+    "category": "Modern",
+    "patterns": [
+      "White Veining",
+      "Bold Contrast"
+    ],
+    "material": "Natural Marble",
+    "finish": "Polished",
+    "sellingStatus": "New Arrival",
+    "isFeatured": false,
+    "updatedAt": "2025-09-14T16:03:49.380Z"
+  },
+  {
+    "id": "4",
+    "name": "Statuario",
+    "color": "White with Gray Veins",
+    "priceContact": "Contact for Best Pricing",
+    "origin": "Carrara, Italy",
+    "description": "Premium white marble with distinctive gray veining. Used by Michelangelo for his sculptures, representing the pinnacle of marble artistry.",
+    "image": "/Statuario.png",
+    "size": "60x60cm",
+    "rarity": "rare",
+    "category": "Premium",
+    "patterns": [
+      "Distinctive Veining",
+      "Artistic"
+    ],
+    "material": "Natural Marble",
+    "finish": "Polished",
+    "sellingStatus": "Out of Stock",
+    "isFeatured": true,
+    "updatedAt": "2025-09-14T16:04:08.346Z"
+  },
+  {
+    "id": "5",
+    "name": "Emperador Dark",
+    "color": "Dark Brown with White Veins",
+    "priceContact": "Contact for Best Pricing",
+    "origin": "Spain",
+    "description": "Rich dark brown marble with elegant white veining. Adds warmth and sophistication to any space.",
+    "image": "/Emperador.png",
+    "size": "60x60cm",
+    "rarity": "uncommon",
+    "category": "Warm",
+    "patterns": [
+      "Brown Base",
+      "White Veins"
+    ],
+    "material": "Natural Marble",
+    "finish": "Polished",
+    "sellingStatus": "Selling Fast"
+  },
+  {
+    "id": "6",
+    "name": "Bianco Venatino",
+    "color": "White with Subtle Gray Veins",
+    "priceContact": "Contact for Best Pricing",
+    "origin": "Italy",
+    "description": "Clean white marble with subtle gray veining. Perfect for minimalist designs and contemporary spaces.",
+    "image": "/Carrara White.png",
+    "size": "60x60cm",
+    "rarity": "common",
+    "category": "Minimalist",
+    "patterns": [
+      "Subtle Veining",
+      "Clean"
+    ],
+    "material": "Natural Marble",
+    "finish": "Polished",
+    "sellingStatus": "Best Seller"
+  },
+  {
+    "id": "7",
+    "name": "Crema Marfil",
+    "color": "Cream with Light Veins",
+    "priceContact": "Contact for Best Pricing",
+    "origin": "Spain",
+    "description": "Warm cream-colored marble with light veining. Creates a cozy and inviting atmosphere in any room.",
+    "image": "/italian.png",
+    "size": "60x60cm",
+    "rarity": "common",
+    "category": "Warm",
+    "patterns": [
+      "Cream Base",
+      "Light Veins"
+    ],
+    "material": "Natural Marble",
+    "finish": "Polished",
+    "sellingStatus": "New Arrival"
+  },
+  {
+    "id": "8",
+    "name": "Arabescato Corchia",
+    "color": "White with Gray Swirls",
+    "priceContact": "Contact for Best Pricing",
+    "origin": "Italy",
+    "description": "Elegant white marble with beautiful gray swirl patterns. Each slab is unique with its own artistic design.",
+    "image": "/italian.png",
+    "size": "60x60cm",
+    "rarity": "rare",
+    "category": "Artistic",
+    "patterns": [
+      "Swirl Patterns",
+      "Unique Design"
+    ],
+    "material": "Natural Marble",
+    "finish": "Polished",
+    "sellingStatus": "Best Seller"
+  },
+  {
+    "id": "9",
+    "name": "Rosso Levanto",
+    "color": "Red with White Veins",
+    "priceContact": "Contact for Best Pricing",
+    "origin": "Italy",
+    "description": "Bold red marble with striking white veining. Makes a dramatic statement in any interior design.",
+    "image": "/Rosso-Levanto.png",
+    "size": "60x60cm",
+    "rarity": "uncommon",
+    "category": "Bold",
+    "patterns": [
+      "Red Base",
+      "White Veins"
+    ],
+    "material": "Natural Marble",
+    "finish": "Polished",
+    "sellingStatus": "Out of Stock"
+  },
+  {
+    "id": "10",
+    "name": "Verde Alpi",
+    "color": "Green with White Veins",
+    "priceContact": "Contact for Best Pricing",
+    "origin": "Italy",
+    "description": "Unique green marble with white veining. Brings the beauty of nature indoors with its forest-like appearance.",
+    "image": "/blue.png",
+    "size": "60x60cm",
+    "rarity": "uncommon",
+    "category": "Natural",
+    "patterns": [
+      "Green Base",
+      "Natural Veins"
+    ],
+    "material": "Natural Marble",
+    "finish": "Polished",
+    "sellingStatus": "New Arrival",
+    "isFeatured": true,
+    "updatedAt": "2025-09-14T16:04:01.828Z"
+  },
+  {
+    "id": "11",
+    "name": "Bardiglio",
+    "color": "Gray with White Veins",
+    "priceContact": "Contact for Best Pricing",
+    "origin": "Italy",
+    "description": "Sophisticated gray marble with white veining. Perfect for modern and industrial-style interiors.",
+    "image": "/italian.png",
+    "size": "60x60cm",
+    "rarity": "common",
+    "category": "Modern",
+    "patterns": [
+      "Gray Base",
+      "Modern Veins"
+    ],
+    "material": "Natural Marble",
+    "finish": "Polished",
+    "sellingStatus": "Best Seller"
+  },
+  {
+    "id": "12",
+    "name": "Portoro",
+    "color": "Black with Gold Veins",
+    "priceContact": "Contact for Best Pricing",
+    "origin": "Italy",
+    "description": "Luxurious black marble with golden veining. The most expensive and exclusive marble, perfect for high-end projects.",
+    "image": "/Onyx Black.png",
+    "size": "60x60cm",
+    "rarity": "legendary",
+    "category": "Luxury",
+    "patterns": [
+      "Black Base",
+      "Gold Veins"
+    ],
+    "material": "Natural Marble",
+    "finish": "Polished",
+    "sellingStatus": "Selling Fast"
+  },
+  {
+    "id": "13",
+    "name": "Botticino",
+    "color": "Light Beige",
+    "priceContact": "Contact for Best Pricing",
+    "origin": "Italy",
+    "description": "Warm light beige marble with subtle veining. Creates a timeless and elegant atmosphere in any space.",
+    "image": "/italian.png",
+    "size": "60x60cm",
+    "rarity": "common",
+    "category": "Classic",
+    "patterns": [
+      "Beige Base",
+      "Subtle Veins"
+    ],
+    "material": "Natural Marble",
+    "finish": "Polished",
+    "sellingStatus": "Selling Fast"
+  },
+  {
+    "id": "14",
+    "name": "Travertine Silver",
+    "color": "Silver Gray",
+    "priceContact": "Contact for Best Pricing",
+    "origin": "Turkey",
+    "description": "Elegant silver-gray travertine with natural holes and texture. Perfect for rustic and Mediterranean-style interiors.",
+    "image": "/italian.png",
+    "size": "60x60cm",
+    "rarity": "uncommon",
+    "category": "Rustic",
+    "patterns": [
+      "Natural Holes",
+      "Textured"
+    ],
+    "material": "Natural Travertine",
+    "finish": "Honed",
+    "sellingStatus": "New Arrival"
+  },
+  {
+    "id": "15",
+    "name": "Onyx Gold",
+    "color": "Translucent Gold",
+    "priceContact": "Contact for Best Pricing",
+    "origin": "Pakistan",
+    "description": "Rare translucent onyx with golden hues. When backlit, creates a stunning luminous effect perfect for feature walls.",
+    "image": "/orynx.png",
+    "size": "60x60cm",
+    "rarity": "legendary",
+    "category": "Exotic",
+    "patterns": [
+      "Translucent",
+      "Golden Hues"
+    ],
+    "material": "Natural Onyx",
+    "finish": "Polished",
+    "sellingStatus": "Selling Fast",
+    "isFeatured": true,
+    "updatedAt": "2025-09-14T16:03:58.659Z"
+  },
+  {
+    "id": "16",
+    "name": "Quartzite Taj Mahal",
+    "color": "White with Gray Veins",
+    "priceContact": "Contact for Best Pricing",
+    "origin": "Brazil",
+    "description": "Durable quartzite with the appearance of marble. Perfect for high-traffic areas while maintaining marble aesthetics.",
+    "image": "/italian.png",
+    "size": "60x60cm",
+    "rarity": "rare",
+    "category": "Durable",
+    "patterns": [
+      "Marble-like",
+      "Durable"
+    ],
+    "material": "Natural Quartzite",
+    "finish": "Polished",
+    "sellingStatus": "Out of Stock"
+  },
+  {
+    "id": "1757854303376",
+    "name": "Abhinav",
+    "color": "white",
+    "priceContact": "Contact for Best Pricing",
+    "origin": "india",
+    "description": "Hlo brother how are u",
+    "image": "https://res.cloudinary.com/dcahaaigp/image/upload/v1757854264/y7u5vdqt25irdsqdfjkn.jpg",
+    "images": [
+      "https://res.cloudinary.com/dcahaaigp/image/upload/v1757854293/vrw5ixhltgvgto8qqtfg.png",
+      "https://res.cloudinary.com/dcahaaigp/image/upload/v1757854293/cmq6mmzpzzf4v0sqlk0l.png",
+      "https://res.cloudinary.com/dcahaaigp/image/upload/v1757854293/xtj8tteqts5ux0ord4yj.png"
+    ],
+    "size": "60x60cm",
+    "rarity": "common",
+    "category": "engineer",
+    "patterns": [],
+    "material": "Natural Marble",
+    "finish": "Polished",
+    "sellingStatus": "Out of Stock",
+    "isFeatured": false,
+    "createdAt": "2025-09-14T12:51:43.643Z",
+    "updatedAt": "2025-09-14T16:03:53.453Z"
+  },
+  {
+    "id": "1757855684955",
+    "name": "Kavya Surana",
+    "color": "White",
+    "priceContact": "Contact for Best Pricing",
+    "origin": "India",
+    "description": "Hlo brother",
+    "image": "https://res.cloudinary.com/dga1vmusg/image/upload/v1757855654/setxqhkyb5asatubcjrf.png",
+    "images": [
+      "https://res.cloudinary.com/dga1vmusg/image/upload/v1757855677/xpxm37djm4xtudahkhc0.png",
+      "https://res.cloudinary.com/dga1vmusg/image/upload/v1757855678/d9fwnlrorsvb5m2lqpuh.png",
+      "https://res.cloudinary.com/dga1vmusg/image/upload/v1757855677/lzdldidjq2rjuqntla2c.png"
+    ],
+    "size": "60x60cm",
+    "rarity": "common",
+    "category": "bj,tnfkw4ngk.",
+    "patterns": [],
+    "material": "Natural Marble",
+    "finish": "Polished",
+    "sellingStatus": "New Arrival",
+    "isFeatured": false,
+    "createdAt": "2025-09-14T13:14:45.222Z",
+    "updatedAt": "2025-09-14T16:03:54.433Z"
+  },
+  {
+    "id": "1757859542926",
+    "name": "Macbook m4",
+    "color": "White",
+    "priceContact": "Contact for Best Pricing",
+    "origin": "India",
+    "description": "bwgejlkfaj ieqj iaesrhgio",
+    "image": "https://res.cloudinary.com/dga1vmusg/image/upload/v1757859521/dg1qhfxvhje10ybjs2mm.png",
+    "images": [
+      "https://res.cloudinary.com/dga1vmusg/image/upload/v1757859531/r8hmc3h0foxixou5ojgn.png",
+      "https://res.cloudinary.com/dga1vmusg/image/upload/v1757859531/phircthobhueiwv8nnjq.png",
+      "https://res.cloudinary.com/dga1vmusg/image/upload/v1757859531/cquimacw2ukdu1ixvrra.png"
+    ],
+    "size": "60x60cm",
+    "rarity": "common",
+    "category": "Rustic",
+    "patterns": [],
+    "material": "Natural Marble",
+    "finish": "Polished",
+    "sellingStatus": "New Arrival",
+    "isFeatured": false,
+    "createdAt": "2025-09-14T14:19:03.964Z",
+    "updatedAt": "2025-09-14T14:19:03.964Z"
+  },
+  {
+    "id": "1757876746989",
+    "name": "hiii",
+    "color": "hbkj",
+    "priceContact": "Contact for Best Pricing",
+    "origin": "bklnk",
+    "description": "guvbhjknlm;, hiujokpl;",
+    "image": "https://res.cloudinary.com/dga1vmusg/image/upload/v1757876697/siobpb4bktxwssod5t93.png",
+    "images": [
+      "https://res.cloudinary.com/dga1vmusg/image/upload/v1757876714/w4gy3wjecaonnw1wvrdp.png",
+      "https://res.cloudinary.com/dga1vmusg/image/upload/v1757876728/v9yxcwyhoxcd0efuxji9.png",
+      "https://res.cloudinary.com/dga1vmusg/image/upload/v1757876714/jhehymhkmyjijyfm04by.png",
+      "https://res.cloudinary.com/dga1vmusg/image/upload/v1757876717/uvgf00ez5wikn3lokgyr.png"
+    ],
+    "size": "60x60cm",
+    "rarity": "common",
+    "category": "Luxury",
+    "patterns": [],
+    "material": "Natural Marble",
+    "finish": "Polished",
+    "sellingStatus": "New Arrival",
+    "isFeatured": false,
+    "createdAt": "2025-09-14T19:05:47.362Z",
+    "updatedAt": "2025-09-14T19:05:47.362Z"
+  }
+]

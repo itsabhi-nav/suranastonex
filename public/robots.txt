@@ -1,0 +1,26 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.suranastonex.com/sitemap.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
+
+# Disallow admin and API routes
+Disallow: /admin/
+Disallow: /api/
+Disallow: /_next/
+Disallow: /test-*
+
+# Allow important pages
+Allow: /marbles/
+Allow: /marble-types/
+Allow: /services/
+Allow: /gallery/
+Allow: /about/
+Allow: /contact/
+
+# Block duplicate content
+Disallow: /*?*
+Disallow: /*#*
